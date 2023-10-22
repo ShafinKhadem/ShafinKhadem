@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShafinKhadem
-- 👀 I’m interested in algorithmic problem solving
+- 👀 I’m interested in algorithmic problem solving, machine learning and distributed systems
 - 📫 How to reach me shafinkhadem@gmail.com
 
 <!---
